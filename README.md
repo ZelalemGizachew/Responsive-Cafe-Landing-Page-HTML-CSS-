@@ -5,7 +5,7 @@
 </figure>
 
 #### Tools I used
-*1. HTML &&*
-*1. CSS*
+*1. HTML &&* <br />
+*2. CSS*
 
 **Contact me: <a href="mailto:zelalemgizachew890@gmail.com">Gmail</a> || <a href="https://t.me/Zenonymous">Telegram</a>**
