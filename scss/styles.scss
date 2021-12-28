@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#landing {
+    background-image: url("https://preview.colorlib.com/theme/coffee/img/xheader-bg.jpg.pagespeed.ic.YfGrEbXWQM.webp");
+    height: 100%;
+    color: rgb(243, 243, 243);
+}
+
+.navbar-nav {
+    a {
+        color:rgba(255, 255, 255, 0.801);
+        font-family: sans-serif;
+        font-size: 12px;
+    }
+}
+
+.mx-8-md {
+    padding: 0px 100px 0px 20%;
+
+    .content {
+        margin-top: 55px;
+
+        h6 {
+            font-weight: 800;
+        }
+        h1 {
+            font-weight: 700;
+            font-size: 42px;
+            // width: 110%;
+            font-family: Verdana;
+        }
+
+        a {
+            background-color: #fff;
+            border-radius: 26px;
+            padding: 10px 40px;
+            font-weight: 500
+        }
+    }
+}
+
+@import 'mobile';
