@@ -5,8 +5,8 @@
 </figure>
 
 #### Tools I used
-*1. HTML &&* <br />
-*2. CSS* <br />
-*3. SCSS*
+***1. HTML*** <br />
+***2. CSS*** <br />
+***3. SCSS***
 
 **Contact me: <a href="mailto:zelalemgizachew890@gmail.com">Gmail</a> || <a href="https://t.me/Zenonymous">Telegram</a>**
